@@ -233,3 +233,14 @@
 | GAN-1   |GAN-for-Game-Level-Generation| ...         | ...     |
 | GAN-1   |GAN-for-Synthetic-Dataset-Creation| ...         | ...     |
 | GAN-1   |GAN-for-Traffic-Simulation| ...         | ...     |
+| ----    |------------------------------| ...         | ...     |
+| ...   |DATABASE ENGINE| ...         | ...     |
+|    |POSTGRESQL| ...         | ...     |
+|    |SQLITE| ...         | ...     |
+|    |MONGODB| ...         | ...     |
+|    |MYSQL| ...         | ...     |
+| ----    |TECHNOLOGY| ...         | ...     |
+|    |PYTHON| ...         | ...     |
+|    |TYPESCRIPT| ...         | ...     |
+|    |NODEJS| ...         | ...     |
+|    |REACTJS| ...         | ...     |
